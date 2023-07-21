@@ -209,13 +209,13 @@ st.markdown('''
 ## Skills
 ''')
 txt3('Programming', '`Python`, `R`, `Linux`,`C`, `Java`')
-txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
+txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`, `BigQuery`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `Tableau`, `PowerBI`, `Kepler`')
-txt3('Machine Learning', '`scikit-learn`')
+txt3('Machine Learning', '`scikit-learn`, , `BigQueryML`')
 txt3('Deep Learning', '`Pytorch`')
 txt3('Web development', '`Flask`, `HTML`, `CSS`')
 txt3('Model deployment', '`streamlit`, `MLFlow`') # `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`
-  
+txt3('Cloud', '`Azure`, `GCP`')  
 
 #####################
 st.markdown('''
